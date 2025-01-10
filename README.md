@@ -25,7 +25,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/RecipeBook.git
+git clone https://github.com/SwadhinDwibedy/Recipe-Book.git
+
 Open the project in Android Studio.
 
 Run the app on an emulator or a physical device.
